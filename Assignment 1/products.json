@@ -1,0 +1,32 @@
+[
+    {
+        "Product Name": "Laptop",
+        "Product ID": "101",
+        "Price": "800.5",
+        "Quantity": "10"
+    },
+    {
+        "Product Name": "Smartphone",
+        "Product ID": "102",
+        "Price": "500.75",
+        "Quantity": "25"
+    },
+    {
+        "Product Name": "Tablet",
+        "Product ID": "103",
+        "Price": "300.99",
+        "Quantity": "15"
+    },
+    {
+        "Product Name": "Headphones",
+        "Product ID": "104",
+        "Price": "50.25",
+        "Quantity": "50"
+    },
+    {
+        "Product Name": "Smartwatch",
+        "Product ID": "105",
+        "Price": "150.0",
+        "Quantity": "20"
+    }
+]
